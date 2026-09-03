@@ -22,3 +22,9 @@
 2. Data(Zomoto): https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/zomato.csv
 3. Dashboard: https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Zomoto%20%20Sales%20Analysis%20Dashboard.pbix
 4. Image: https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Dashboard%20Image.jpeg
+
+# Feedback & Collaboration
+Feel free to explore this project and share your feedback! If you have suggestions for improvement or spot any issues, please open an issue or reach out.
+Contributions, ideas, and collaboration requests are always welcome. If you'd like to connect, discuss this project, or explore potential collaboration opportunities, feel free to reach out via email or LinkedIn.
+I'm currently open to Data Analyst job opportunities — if you're hiring or know of a role that fits my skill set (Excel, MySQL, Power BI, Python), I'd love to connect!
+📧 Email: vk3272291@mail.com
