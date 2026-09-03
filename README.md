@@ -19,6 +19,6 @@
 
 # Repository Structure
 1. Data(Country Code): https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Country-Code.xlsx
-2. Data(Zomoto):
-3. Dashboard:
-4. Image:
+2. Data(Zomoto): https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/zomato.csv
+3. Dashboard: https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Zomoto%20%20Sales%20Analysis%20Dashboard.pbix
+4. Image: https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Dashboard%20Image.jpeg
