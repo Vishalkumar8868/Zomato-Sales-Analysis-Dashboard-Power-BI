@@ -21,7 +21,8 @@
 1. Data(Country Code): https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Country-Code.xlsx
 2. Data(Zomoto): https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/zomato.csv
 3. Dashboard: https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Zomoto%20%20Sales%20Analysis%20Dashboard.pbix
-4. Image: https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Dashboard%20Image.jpeg
+4. Image: <img width="2228" height="1268" alt="Dashboard Image" src="https://github.com/user-attachments/assets/bb915ab5-10a7-4c12-9acf-5bc8694425b5" />
+
 
 # Feedback & Collaboration
 Feel free to explore this project and share your feedback! If you have suggestions for improvement or spot any issues, please open an issue or reach out.
