@@ -16,3 +16,9 @@
 4. Cuisine-wise Analysis — treemap visualization showing top cuisines by restaurant count
 5. Geo Mapping — restaurant locations plotted on an interactive world map
 6. City-wise Distribution — ranked list of cities by restaurant percentage share
+
+# Repository Structure
+1. Data(Country Code): https://github.com/Vishalkumar8868/Zomot-Sales-Analysis-Dashboard--Power-BI/blob/main/Country-Code.xlsx
+2. Data(Zomoto):
+3. Dashboard:
+4. Image:
